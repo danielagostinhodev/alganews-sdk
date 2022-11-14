@@ -1,6 +1,6 @@
 {
   "name": "das-agnews-sdk",
-  "version": "2.4.0",
+  "version": "2.5.0",
   "main": "dist/index.js",
   "type": "dist/index.d.ts",
   "license": "MIT",
